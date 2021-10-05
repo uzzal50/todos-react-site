@@ -1,5 +1,5 @@
 import React from 'react'
-import toast, { Toaster } from 'react-hot-toast'
+
 import { FiEdit2 } from 'react-icons/fi'
 import { AiOutlineDelete } from 'react-icons/ai'
 import Button from 'react-bootstrap/Button'
