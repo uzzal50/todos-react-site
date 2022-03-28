@@ -97,7 +97,7 @@ const App = () => {
       <Toaster />
       <Card>
         <Card.Header as='h5' className='d-flex justify-content-between'>
-          ToDo List
+          ToDo Lists
           <div>Total List : {lists.length}</div>
           <div>Completed List : {completeList.length}</div>
         </Card.Header>
